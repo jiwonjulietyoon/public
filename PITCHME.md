@@ -4,7 +4,7 @@ SSAFY 서울 1반
 
 ---
 
-# [1주차 Reflection] Design Thinking 방법론
+### [1주차 Reflection] Design Thinking 방법론
 
 | 단계                         | 정의 | 활용 Tool |
 | ---------------------------- | ---- | --------- |
