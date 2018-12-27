@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Team"
+title                    : "Hello FireBird"
 title_separator          : "-"
 name                     : "Hello Firebird"
 description              : "-"
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hello Firefox"
+  name             : "Hello Firebird"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome"
   location         : "Somewhere"
