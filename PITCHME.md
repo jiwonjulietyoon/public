@@ -6,7 +6,7 @@ SSAFY 서울 1반
 
 ### [1주차 Reflection] Design Thinking 방법론
 
-| @size[2.0em](단계)                         | 정의 | 활용 Tool |
+| @size[0.5em](단계)                         | @size[0.5em](정의) | @size[0.5em](활용 Tool) |
 | ---------------------------- | ---- | --------- |
 | 공감<br />(Empathize)        |      |           |
 | 문제 정의<br />(Define)      |      |           |
